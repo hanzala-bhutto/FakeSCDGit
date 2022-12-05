@@ -1,0 +1,2 @@
+# FakeSCDGit
+Eclipse With Git
